@@ -19,34 +19,34 @@ The Examination Management System is a comprehensive web-based application desig
 🛡️ Advanced Security using JWT, encryption, and AI-powered cheating detection
 
 🧠 Technologies Used
-Frontend: HTML5, CSS3, JavaScript, React.js, Bootstrap
+      Frontend: HTML5, CSS3, JavaScript, React.js, Bootstrap
 
-Backend: Node.js, Express.js
+      Backend: Node.js, Express.js
 
-Database: MySQL, Redis (for caching)
+      Database: MySQL, Redis (for caching)
 
-Security: JWT, Bcrypt, MFA
+      Security: JWT, Bcrypt, MFA
 
-AI & Automation: OCR, NLP, ML-based adaptive grading
+      AI & Automation: OCR, NLP, ML-based adaptive grading
 
 📦 Modules
-Student Dashboard
+      Student Dashboard
 
-Faculty Portal
+      Faculty Portal
 
-Admin Panel
+      Admin Panel
 
-Exam & Result Management
+      Exam & Result Management
 
-Real-Time Notifications
+      Real-Time Notifications
 
-Analytics Dashboard
+      Analytics Dashboard
 
 📚 Future Scope
-Integration with Blockchain for tamper-proof records
+      Integration with Blockchain for tamper-proof records
 
-Adaptive Learning Models for personalized assessments
+      Adaptive Learning Models for personalized assessments
 
-Full LMS Integration
+      Full LMS Integration
 
-AI-enhanced proctoring and exam integrity mechanisms
+      AI-enhanced proctoring and exam integrity mechanisms
